@@ -2,9 +2,8 @@ p{
     text-align: left;
     color: #CDA551;
 }
-#app{
+img{
     text-align: center;
-    color: #CDA551;
 }
 html{
     background-color: black;
@@ -14,4 +13,5 @@ a{
 }
 h1{
     color: #CDA551;
+    text-align: center;
 }
